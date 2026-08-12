@@ -1,0 +1,5 @@
+hospital
+*.dSYM/
+*.o
+routine
+routine2
